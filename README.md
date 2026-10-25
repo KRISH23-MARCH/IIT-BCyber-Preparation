@@ -10,6 +10,9 @@ Daily Commitment: 1 Hour Daily [Parallel to JEE 2027 preparation].
 - [ ] Web Security & API Security
 - [ ] Cryptography
 - [ ] Reverse Engineering
+- [ ] Building my Portfolio
 
 ## Daily Progress Log
-- **Day 1:** GitHub repository created and portfolio structure initialized.
+- **Day 1 25-10-2026:** Created GitHub repository and completed TryHackMe Intro to Offensive Security room.
+- **Day 2**
+
