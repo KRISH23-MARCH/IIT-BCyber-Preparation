@@ -14,5 +14,5 @@ Daily Commitment: 1 Hour Daily [Parallel to JEE 2027 preparation].
 
 ## Daily Progress Log
 - **Day 1 25-10-2026:** Created GitHub repository and completed TryHackMe Intro to Offensive Security room.
-- **Day 2**
+- **Day 2 26-10-2026:** OSINT & Google Dorking
 
