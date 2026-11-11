@@ -16,3 +16,4 @@ Daily Commitment: 1 Hour Daily [Parallel to JEE 2027 preparation].
 - **Day 1 25-10-2026:** Created GitHub repository and completed TryHackMe Intro to Offensive Security room.
 - **Day 2 26-10-2026:** OSINT & Google Dorking
 - **Day3 31-10-2026:** Metadata & ExifTool
+- **Day 4** File Carving & Deep Data Streams
