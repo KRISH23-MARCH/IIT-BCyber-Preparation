@@ -26,3 +26,15 @@
   - **Dimensions:** 1080x1350 pixels (1.5 Megapixels).
   - **Timestamps:** Successfully captured file creation, modification, and access times.
 - **Key Takeaway:** Metadata analysis is a vital reconnaissance technique that reveals file specifications, underlying properties, and historical timestamps.
+
+- ## Day 4: File Carving & Deep Data Streams
+
+- **Objective:** Extract hidden text fragments, embedded files, and deep data streams from binary targets.
+- **Environment:** Windows Command Prompt, directory navigation (`cd`), and binary execution (`.\exiftool.exe`).
+- **Tool & Command:** `exiftool.exe -ee -j <file_path>`
+- **Target Analyzed:** `MathonGo-Diwali-Card.png`
+- **Key Concepts:**
+  - **Embedded Stream Extraction (`-ee`):** Forces ExifTool to scan deeper layers of multi-stream files or hidden data pockets.
+  - **JSON Output Formatting (`-j`):** Formats output data cleanly for programmatic parsing.
+  - **Forensic Carving:** Techniques used to extract embedded payloads or hidden metadata when standard tags are omitted.
+- **Takeaway:** Advanced CTF challenges frequently conceal flags inside embedded data streams rather than standard top-level metadata tags.
